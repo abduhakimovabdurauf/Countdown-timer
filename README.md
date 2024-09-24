@@ -11,15 +11,20 @@ A sleek, animated countdown timer that shows the remaining time ⏰ until your s
 
 **📱 Responsive: Works smoothly on all screen sizes.**
 
+
+
 🚀 How to Use
 
 Clone the repo:
 
 **git clone https://github.com/abduhakimovabdurauf/Countdown-timer.git**
 
+
+
 Set the target date in script.js:
 
 **const futureDate = new Date('YYYY/MM/DD');**
+
 
 
 Open index.html in your browser and watch the countdown! 🎉
@@ -31,6 +36,7 @@ Open index.html in your browser and watch the countdown! 🎉
 🎨 CSS3
 
 ⚙️ JavaScript (ES6)
+
 
 
 **See the result:** https://abduhakimovabdurauf.github.io/Countdown-timer/
