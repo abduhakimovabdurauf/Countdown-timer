@@ -2,10 +2,10 @@
 A sleek, animated countdown timer that shows the remaining time ⏰ until your special event!
 
 ✨ Features
-**🟢 Animated Circles: Cool progress bars for days, hours, minutes, and seconds.
-⚡ Real-Time Updates: The countdown ticks every second!
-🎨 Customizable: Set your own target date easily.
-📱 Responsive: Works smoothly on all screen sizes.**
+**🟢 Animated Circles: Cool progress bars for days, hours, minutes, and seconds.**
+**⚡ Real-Time Updates: The countdown ticks every second!**
+**🎨 Customizable: Set your own target date easily.**
+**📱 Responsive: Works smoothly on all screen sizes.**
 🚀 How to Use
 Clone the repo:
 **git clone https://github.com/abduhakimovabdurauf/Countdown-timer.git**
